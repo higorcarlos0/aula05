@@ -1,3 +1,3 @@
 ## Aula 05
 
-desenvolvido por Higor Carlos
+desenvolvido por Higor Carlos da Silva
